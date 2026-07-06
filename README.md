@@ -190,6 +190,7 @@ Libraries used: scikit-learn, Plotly, Seaborn, and Matplotlib.
 
 🧑‍💻 Author Vidyashree s
     Aspiring Data Analyst | Machine Learning Enthusiast
+
 📧 vidyaa1103@gmail.com
 
 🌐 https://github.com/Viiddzzz/financial-fraud-detection
