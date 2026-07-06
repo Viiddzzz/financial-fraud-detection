@@ -128,7 +128,7 @@ Confusion matrix (optional)
 
 **🧩 File Structure**
 
-📁 Online-Fraud-Detection-System/
+📁 financial-fraud-detection/
 │
 ├── fraud_detection.py          # Main Python project code
 
@@ -152,8 +152,12 @@ Visualization improved interpretability for non-technical audiences.
 The system can easily integrate into a larger fraud prevention pipeline.
 
 
+## 💼 Business Impact
 
-
+- Helps financial institutions detect suspicious transactions more efficiently.
+- Reduces financial losses through early fraud detection.
+- Demonstrates the practical application of machine learning in financial security.
+- Supports data-driven decision-making using interactive visualizations.
 
 **🚀 Future Enhancements**
 
@@ -166,8 +170,6 @@ Add streamlit or Flask dashboard for web-based visualization.
 Perform feature engineering using advanced statistical methods.
 
 
-
-
 **⭐ Acknowledgements**
 
 Inspired by online payment fraud detection research papers.
@@ -176,14 +178,21 @@ Developed as part of a college mini-project on Machine Learning Applications in 
 
 Libraries used: scikit-learn, Plotly, Seaborn, and Matplotlib.
 
+## 🛠 Skills Demonstrated
 
-
+- Python Programming
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Machine Learning
+- Classification Algorithms
+- Model Evaluation
 
 🧑‍💻 Author Vidyashree s
-    Student | Data Science & Machine Learning Enthusiast
+    Aspiring Data Analyst | Machine Learning Enthusiast
 📧 vidyaa1103@gmail.com
 
-🌐 https://github.com/Viiddzzz/ONLINE-FRAUD-DETECTION-SYSTEM
+🌐 https://github.com/Viiddzzz/financial-fraud-detection
 
 
 
