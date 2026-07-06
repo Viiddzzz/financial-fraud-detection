@@ -87,8 +87,8 @@ The dataset contains synthetic transaction records with the following key featur
 ## 🧰 Installation & Setup
 
   1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/Online-Fraud-Detection-System.git
-   cd Online-Fraud-Detection-System
+  git clone https://github.com/Viiddzzz/financial-fraud-detection.git
+cd financial-fraud-detection
 
   2. Install dependencies:
    pip install pandas numpy matplotlib seaborn plotly scikit-learn
