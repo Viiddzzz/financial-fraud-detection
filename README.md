@@ -1,5 +1,5 @@
-# ONLINE-FRAUD-DETECTION-SYSTEM
-An intelligent **Machine Learning-based Online Fraud Detection System** designed to identify fraudulent financial transactions in real time.   This project leverages multiple ML models and performance evaluation metrics to ensure high accuracy and reliability in detecting anomalies or suspicious activities.
+# 💳 Financial Fraud Detection using Machine Learning
+An end-to-end Machine Learning project that detects fraudulent financial transactions using classification algorithms. The project includes data preprocessing, exploratory data analysis (EDA), model training, performance evaluation, and interactive visualizations to identify suspicious transaction patterns.
 
 **📘 Project Overview**
 
