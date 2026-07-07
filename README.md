@@ -82,29 +82,6 @@ The dataset contains synthetic transaction records with the following key featur
    - Displays accuracy and F1-scores for all models in a tabular format.
 
 
-## 📷 Project Screenshots
-
-### Transaction Type Distribution
-
-![Transaction Distribution](screenshots/transaction-distribution.png)
-
----
-
-### Correlation Heatmap
-
-![Correlation Heatmap](screenshots/correlation-heatmap.png)
-
----
-
-### Model Accuracy Comparison
-
-![Model Accuracy](screenshots/model-accuracy-comparison.png)
-
----
-
-### Performance Table
-
-![Performance Table](screenshots/performance-table.png)
 
 ## 🧰 Installation & Setup
 
